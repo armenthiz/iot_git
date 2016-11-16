@@ -1,1 +1,8 @@
-<?php phpinfo(); ?>
+
+<?php phpinfo();
+
+	/**
+	 * Testing
+	 */
+	echo "Test";
+?>
